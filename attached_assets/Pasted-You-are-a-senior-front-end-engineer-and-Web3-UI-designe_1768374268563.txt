@@ -1,0 +1,106 @@
+You are a senior front-end engineer and Web3 UI designer.
+
+Your task is to BUILD a responsive landing page + members page for Superteam Brazil using clean, modern Web3 UI principles.
+
+GOAL:
+Create a dark-mode, component-based landing page that can be easily implemented from a Figma design.
+
+OUTPUT FORMAT (IMPORTANT):
+1. Page layout outline
+2. Component breakdown
+3. Section hierarchy
+4. Reusable components list
+5. Responsive behavior notes
+6. Animation & interaction logic
+7. Accessibility considerations
+
+--------------------------------
+PROJECT CONTEXT
+--------------------------------
+Superteam Brazil is the main community hub for Solana builders in Brazil.
+
+The site must:
+- Match Superteam global brand
+- Use purple gradients + subtle Brazilian accents
+- Feel premium, modern, and fast
+- Be mobile-first and scalable
+
+--------------------------------
+PAGES TO BUILD
+--------------------------------
+
+1) LANDING PAGE COMPONENTS
+
+Hero:
+- Full-width section
+- Headline + subheadline
+- CTA buttons
+- Animated background or carousel
+
+Mission Section:
+- Grid of 4–6 cards
+- Icon + title + description
+- Hover states
+
+Stats Section:
+- Counter components
+- Scroll-triggered animation
+
+Events Section:
+- Event cards
+- Upcoming + past layout
+- CTA button
+
+Members Preview:
+- Card grid
+- Avatar, name, role, X icon
+- Skill tags
+- “View All Members” button
+
+Partners Section:
+- Logo grid
+- Hover color effects
+
+Testimonials:
+- Tweet-style cards
+- Carousel or masonry layout
+
+FAQ:
+- Accordion component
+- Expand/collapse logic
+
+CTA Section:
+- Large callout
+- Social links
+- Email input (optional)
+
+Footer:
+- Multi-column layout
+- Links + socials
+
+--------------------------------
+2) MEMBERS PAGE COMPONENTS
+--------------------------------
+- Search input
+- Skill filter pills
+- Member card component
+- Core Team visual distinction
+- Pagination or infinite scroll
+
+--------------------------------
+DESIGN & TECH NOTES
+--------------------------------
+- Dark mode default
+- Accessible contrast ratios
+- Smooth transitions (150–300ms)
+- Reusable components
+- Desktop + mobile breakpoints
+- Web3-style glow effects (subtle)
+
+--------------------------------
+SUCCESS CRITERIA
+--------------------------------
+- Clean component architecture
+- Scalable layout
+- Strong UX flow
+- Production-ready structure
