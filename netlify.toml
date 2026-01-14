@@ -1,9 +1,10 @@
 [build]
   base = "client"
   command = "npm run build"
-  publish = "dist/public"
+  publish = "dist"
 
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/public/index.html"
   status = 200
+
