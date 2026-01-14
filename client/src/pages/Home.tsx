@@ -57,7 +57,7 @@ function Hero() {
           className="flex flex-col sm:flex-row items-center justify-center gap-4"
         >
           <a
-            href="https://discord.com"
+            href="https://x.com/SuperteamBR"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-4 rounded-full bg-primary text-white font-bold text-lg hover:bg-primary/90 hover:scale-105 transition-all shadow-lg shadow-primary/25 w-full sm:w-auto"
@@ -251,16 +251,16 @@ function CTA() {
                     Ready to start building?
                 </h2>
                 <p className="text-lg text-muted-foreground mb-10 max-w-xl mx-auto">
-                    Join the Discord to introduce yourself, find a team, and start shipping. We can't wait to see what you build.
+                    Join our community on X to stay updated, find a team, and start shipping. We can't wait to see what you build.
                 </p>
                 <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                     <a
-                        href="https://discord.com"
+                        href="https://x.com/SuperteamBR"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="w-full sm:w-auto px-8 py-4 rounded-full bg-white text-black font-bold text-lg hover:bg-gray-200 transition-all shadow-xl"
                     >
-                        Join Discord
+                        Join Community
                     </a>
                 </div>
             </div>

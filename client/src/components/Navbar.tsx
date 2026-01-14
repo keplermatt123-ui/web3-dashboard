@@ -44,12 +44,12 @@ export function Navbar() {
               </Link>
             ))}
             <a 
-              href="https://discord.com" 
+              href="https://x.com/SuperteamBR" 
               target="_blank" 
               rel="noopener noreferrer"
               className="px-5 py-2.5 rounded-full bg-white text-black font-bold text-sm hover:bg-primary hover:text-white transition-all duration-300"
             >
-              Join Discord
+              Join Community
             </a>
           </div>
 
@@ -88,7 +88,7 @@ export function Navbar() {
                 </Link>
               ))}
               <a
-                href="https://discord.com"
+                href="https://x.com/SuperteamBR"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full py-3 text-center rounded-lg bg-primary text-white font-bold hover:bg-primary/90 transition-colors"
